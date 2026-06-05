@@ -1,0 +1,29 @@
+{
+  "name": "nvm-skills",
+  "version": "1.0.0",
+  "description": "Node Version Manager (nvm) skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/nvm-skills",
+  "repository": "https://github.com/full-statck-skills/nvm-skills",
+  "source": "./",
+  "skills": [
+    "./skills/nvm-defaults-and-nvmrc",
+    "./skills/nvm-docker-ci",
+    "./skills/nvm-global-packages",
+    "./skills/nvm-install",
+    "./skills/nvm-mirror-and-auth",
+    "./skills/nvm-misc",
+    "./skills/nvm-project-meta",
+    "./skills/nvm-setup",
+    "./skills/nvm-shell-integration",
+    "./skills/nvm-troubleshooting-linux",
+    "./skills/nvm-troubleshooting-macos",
+    "./skills/nvm-uninstall",
+    "./skills/nvm-usage-basics",
+    "./skills/nvm-verify",
+    "./skills/nvm"
+  ]
+}
