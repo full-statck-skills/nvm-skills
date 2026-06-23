@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/nvm-skills",
-  "repository": "https://github.com/full-statck-skills/nvm-skills",
+  "homepage": "https://github.com/full-stack-skills/nvm-skills",
+  "repository": "https://github.com/full-stack-skills/nvm-skills",
   "source": "./",
   "skills": [
     "./skills/nvm-defaults-and-nvmrc",
